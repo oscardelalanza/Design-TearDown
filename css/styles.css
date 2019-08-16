@@ -1,0 +1,71 @@
+/*================================================= GENERAL ===========================================================*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-33 {
+    width: 33.33%;
+    border: solid 1px white;
+}
+
+.w-66 {
+    width: 66.66%;
+    border: solid 1px white;
+}
+
+.big-height {
+    height: 600px;
+}
+
+.light {
+    background: rgb(202, 199, 199);
+}
+
+/*================================================= HEADER ===========================================================*/
+
+header {
+    width: 100%;
+    height: 225px;;
+    background: rgb(49, 48, 48);
+    border: solid 1px white;
+}
+
+/*================================================= MAIN ===========================================================*/
+
+main {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+main .main-article {
+    height: 830px;
+    background: rgb(49, 48, 48);
+    border: solid 1px white;
+}
+
+main .main-article-small {
+    height: 600px;
+    background: rgb(49, 48, 48);
+    border: solid 1px white;
+}
