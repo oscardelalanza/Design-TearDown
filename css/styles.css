@@ -21,6 +21,7 @@ body {
 
 .w-50 {
     width: 50%;
+    border: solid 1px white;
 }
 
 .w-33 {
@@ -33,20 +34,43 @@ body {
     border: solid 1px white;
 }
 
+.w-100 {
+    width: 100%;
+    border: solid 1px white;
+}
+
+.sm-height {
+    height: 240px;
+}
+
+.md-height {
+    height: 400px;
+}
+
 .big-height {
     height: 600px;
+}
+
+.xb-height {
+    height: 1200px;
 }
 
 .light {
     background: rgb(202, 199, 199);
 }
 
+.light-dark {
+    background: #595858;
+}
+
+.dark {
+    background: rgb(49, 48, 48);
+}
 /*================================================= HEADER ===========================================================*/
 
 header {
     width: 100%;
     height: 225px;;
-    background: rgb(49, 48, 48);
     border: solid 1px white;
 }
 
