@@ -22,7 +22,25 @@ To get a local copy up and running follow these simple example steps.
 - `git clone git@github.com:oscardelalanza/Design-TearDown.git`
 
 ### Prerequisites
-- web browser
+- `git`
+
+### Setup
+
+To clone the project into your local environment do the following
+
+- open a new `terminal` window and navigate to the directory where the project will be stored
+- run the command `git clone git@github.com:oscardelalanza/Design-TearDown.git`
+- run the command `cd Design-TearDown` to enter to the project directory
+
+### Usage
+
+To start the local development server do the following
+
+- open the file `index.html` in your web browser 
+
+### Run tests
+
+- no written tests yet
 
 ## Authors
 
@@ -37,6 +55,7 @@ To get a local copy up and running follow these simple example steps.
 - Github: [@oscardelalanza](https://github.com/oscardelalanza)
 - Twitter: [@oscardelalanza](https://twitter.com/oscardelalanza)
 - Linkedin: [Oscar De La Lanza](https://linkedin.com/in/oscardelalanza)
+- Email: oscardelalanza@gmail.com
 
 ## 🤝 Contributing
 
