@@ -17,9 +17,10 @@ You can find the original description in [The Odin Project](https://www.theodinp
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-- open a new terminal and run the following command:
-- `git clone git@github.com:oscardelalanza/Design-TearDown.git`
+The goal of this exercise is to start training and thinking in terms of visual hierarchy, typography, and design principles. 
+We created a grayscale heat map of the website that indicates which elements have the greatest weight in the visual hierarchy.
+
+> To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 - `git`
