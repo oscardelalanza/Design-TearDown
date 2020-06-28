@@ -1,6 +1,6 @@
 # Project Name
 
-> This project consist of building a Heatmap of the [Smashing Magazine](https://www.smashingmagazine.com/) like a practice of UX design
+> This project consist of building a Heat-map of the [Smashing Magazine](https://www.smashingmagazine.com/) like a practice of UX design.
 
 ![screenshot](./screenshot.PNG)
 
@@ -14,7 +14,6 @@ You can find the original description in [The Odin Project](https://www.theodinp
 
 [Live Demo Link](https://rawcdn.githack.com/oscardelalanza/Design-TearDown/23e6386beededd1273bf8ad8029a86fcc7cd0034/index.html)
 
-
 ## Getting Started
 
 The goal of this exercise is to start training and thinking in terms of visual hierarchy, typography, and design principles. 
@@ -23,25 +22,32 @@ We created a grayscale heat map of the website that indicates which elements hav
 > To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- `git`
+
+- `Git`
 
 ### Setup
 
-To clone the project into your local environment do the following
+To clone the project into your local environment do the following.
 
-- open a new `terminal` window and navigate to the directory where the project will be stored
-- run the command `git clone git@github.com:oscardelalanza/Design-TearDown.git`
-- run the command `cd Design-TearDown` to enter to the project directory
+- Open a new `terminal` window and navigate to the directory where the project will be stored.
+- Run the command `git clone git@github.com:oscardelalanza/Design-TearDown.git`.
+- Run the command `cd Design-TearDown` to enter to the project directory.
+
+### Install
+
+- This project doesn't require installation, node modules, or similar.
 
 ### Usage
 
-To start the local development server do the following
-
-- open the file `index.html` in your web browser 
+*This project is an HTML form template. Is only demonstrative and does not contain functional features.*
 
 ### Run tests
 
-- no written tests yet
+- This project doesn't contain tests.
+
+### Deployment
+
+- Open `index.html` file to go directly to the page, or use your preferred web server.
 
 ## Authors
 
