@@ -1,4 +1,4 @@
-# Project Name
+# Design Teardown
 
 > This project consist of building a Heat-map of the [Smashing Magazine](https://www.smashingmagazine.com/) like a practice of UX design.
 
